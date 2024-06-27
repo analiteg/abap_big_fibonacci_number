@@ -7,3 +7,6 @@ You can calculate Fibonacci numbers using:
 - string arithmetics
 
 See my code inside this repo.
+
+## It is the 30000-th Fibonacci number, which I calculated using a free BTP ABAP environment trial.
+![FIBO 30000](https://github.com/analiteg/abap_big_fibonacci_number/blob/main/FIBO%2030%20000.png?raw=true)
